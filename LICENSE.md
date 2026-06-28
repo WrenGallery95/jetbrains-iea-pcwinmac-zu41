@@ -1,4 +1,4 @@
-# 
+# Instant JetBrains IntelliJ IDEA templates for Mac OS | Turbo JetBrains IntelliJ IDEA templates for PC Windows. Featuring submodule-support and syntax-highlighting — optimized for maximum performance on every platform.
 
 
 
